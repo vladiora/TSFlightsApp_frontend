@@ -1,5 +1,11 @@
 # TSFlightsApp
 
+This application allows users to look for available flights based on their starting point and destination. Administration part of the application allows users to add update and delete information about flights.
+
+Main concepts in this project is the use of routing module and using REST service that the backend of this application provides.
+
+This project is part of SoloLearn course [Angular + NestJS](https://www.sololearn.com/Course/fullstack/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
 ## Development server
