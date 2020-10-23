@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TSFlightsApp"
+    }
+  },
+  "defaultProject": "TSFlightsApp",
+  "cli": {
+    "analytics": "0a86d15c-d2c8-4ea3-a9d2-18b949080217"
+  }
 }
